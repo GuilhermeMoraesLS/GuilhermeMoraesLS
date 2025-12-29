@@ -19,11 +19,11 @@
 
 ```javascript
 const guilherme = {
-    localização: "Niterói, Rio de Janeiro 🇧🇷",
-    idade: 18,
+    localização: "Rio de Janeiro 🇧🇷",
+    idade: 20,
     formação: "Engenharia da Computação - IBMEC",
     idiomas: ["Português", "Inglês Fluente 🇺🇸"],
-    objetivo: "Estágio em Desenvolvimento de Software",
+    objetivo: "Estágio em Desenvolvimento de Agentes de IA",
     status: "Disponível para novos desafios! 🚀"
 };
 ```
@@ -211,7 +211,7 @@ Sistema inteligente de análise nutricional:
 
 ---
 
-### ⚡ *"Sempre em busca de aprender e evoluir através da tecnologia!"*
+### ⚡ *"Ninguém sabe porque chega por último, mas quem vence sabe porque chegou em primeiro"*
 
 ![](https://komarev.com/ghpvc/?username=GuilhermeMoraesLS&color=blue&style=flat-square&label=Visitantes)
 
